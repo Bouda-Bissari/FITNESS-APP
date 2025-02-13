@@ -30,7 +30,7 @@ Avant de commencer, assure-toi d'avoir installé les éléments suivants :
 
 ### 1️⃣ Cloner le dépôt  
 ```bash
-git clone https://github.com/votre-repo/fitness-app.git
+[git clone https://github.com/votre-repo/fitness-app.git](https://github.com/Bouda-Bissari/FITNESS-APP.git)
 cd fitness-app
 ```  
 
