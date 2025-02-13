@@ -1,6 +1,6 @@
 # 🏋️‍♂️ **FitnessApp - Plateforme de gestion de salle de sport**  
 
-![alt text]([https://images.unsplash.com/photo-1583454110558-0f40c8a7b6c6](https://img.freepik.com/psd-gratuit/modele-banniere-fitness-gym-design-plat_23-2149541486.jpg?t=st%3D1696653866~exp%3D1696654466~hmac%3D0024cbe5720ef03ab0cd083a447568686cef1d24a00c230c69bb652ea2fb20a8&w=1800))
+![alt text](https://img.freepik.com/psd-gratuit/modele-banniere-fitness-gym-design-plat_23-2149541486.jpg?t=st%3D1696653866~exp%3D1696654466~hmac%3D0024cbe5720ef03ab0cd083a447568686cef1d24a00c230c69bb652ea2fb20a8&w=1800)
 **FitnessApp** est une application complète pour gérer une salle de sport, intégrant :  
 ✅ Un **backend Spring Boot** (API REST)  
 ✅ Un **frontend Angular** (interface d'administration)  
