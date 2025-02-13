@@ -4,7 +4,7 @@ Voici une version améliorée et bien formatée de ton texte :
 
 # 🏋️‍♂️ **FitnessApp - Plateforme de gestion de salle de sport**  
 
-![FitnessApp Banner](https://via.placeholder.com/800x200.png?text=FitnessApp+Banner)
+![FitnessApp Banner](https://images.unsplash.com/photo-1583454110558-0f40c8a7b6c6)
 **FitnessApp** est une application complète pour gérer une salle de sport, intégrant :  
 ✅ Un **backend Spring Boot** (API REST)  
 ✅ Un **frontend Angular** (interface d'administration)  
